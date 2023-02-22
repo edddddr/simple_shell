@@ -101,7 +101,7 @@ typedef struct passinfo
 
 /**
  * struct builtin - contains a builtin string and related function
- * @type: the builtin 
+ * @type: the builtin
  * @func: the function
  */
 typedef struct builtin
